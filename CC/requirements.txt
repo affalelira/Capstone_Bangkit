@@ -1,0 +1,12 @@
+flask
+flask_cors
+gunicorn
+mysql-connector-python
+python-dotenv
+numpy
+Pillow
+google-cloud-storage
+tensorflow
+PyJWT
+bcrypt
+pytz
