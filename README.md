@@ -1,5 +1,7 @@
 # Capstone_Bangkit
+
 <img src="https://drive.google.com/uc?export=view&id=1RPy9S8b83amYqa4dZS_DGPxGECD_ZvYP" alt="Deskripsi Gambar" width="500" />
+
 # AJI – Automate Attendance and Payroll for SMEs  
 
 Welcome to **AJI**, a smart solution designed to help **small and medium enterprises (SMEs)** streamline payroll calculations with ease and accuracy. AJI stands for **“Absen & Gaji”**, and it leverages cutting-edge technology to ensure seamless attendance tracking and salary automation.  
