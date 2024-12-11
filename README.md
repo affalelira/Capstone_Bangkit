@@ -98,23 +98,25 @@ We are a dedicated group of innovators committed to solving real-world business 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/azkiyaakmal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/azki.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/ajeng-puspa/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/ajeng.png" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/larasatiromadhani10/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/aden.png" width="100px;" alt="Larasati R.Y.P"/><br /><sub><b>Larasati R.Y.P</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/wahyu-melinda-permanasari-851494309/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/melin.png" width="100px;" alt="Wahyu Melinda"/><br /><sub><b>Wahyu Melinda</b></sub></a><br />
-      </td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/affa-lelira-ibrahim-81b3812b1/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/affa.png" width="100px;" alt="Affa Lelira"/><br /><sub><b>Affa Lelira</b></sub></a><br />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/dyorizqal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/dyo.png" width="100px;" alt="Dyo Rizqal"/><br /><sub><b>Dyo Rizqal</b></sub></a><br />
-      </td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/teuku-muhammad-erlangga-pratama/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/erlang.png" width="100px;" alt="T.M Erlangga "/><br /><sub><b>T.M Erlangga</b></sub></a><br />
-      </td>
-    </tr>
-  </tbody>
+    <tbody>
+    <div align="center">
+        <tr>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/azkiyaakmal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/azki.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/ajeng-puspa/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/ajeng.png" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/larasatiromadhani10/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/aden.png" width="100px;" alt="Larasati R.Y.P"/><br /><sub><b>Larasati R.Y.P</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/wahyu-melinda-permanasari-851494309/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/melin.png" width="100px;" alt="Wahyu Melinda"/><br /><sub><b>Wahyu Melinda</b></sub></a><br />
+            </td>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/affa-lelira-ibrahim-81b3812b1/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/affa.png" width="100px;" alt="Affa Lelira"/><br /><sub><b>Affa Lelira</b></sub></a><br />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/dyorizqal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/dyo.png" width="100px;" alt="Dyo Rizqal"/><br /><sub><b>Dyo Rizqal</b></sub></a><br />
+            </td>
+            <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/teuku-muhammad-erlangga-pratama/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/erlang.png" width="100px;" alt="T.M Erlangga "/><br /><sub><b>T.M Erlangga</b></sub></a><br />
+            </td>
+        </tr>
+    </div>
+    </tbody>
 </table>
 
 <!-- markdownlint-restore -->
