@@ -104,7 +104,7 @@ We are a dedicated group of innovators committed to solving real-world business 
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/maulidyasyh_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/affa.png" width="100px;" alt="Affa Lelira"/><br /><sub><b>Affa Lelira</b></sub></a><br />
       </td>
     </tr>
-    <tr align="center">
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/nauranrswr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/dyo.png" width="100px;" alt="Dyo Rizqal"/><br /><sub><b>Dyo Rizqal</b></sub></a><br />
       </td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/cindyadm_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/erlang.png" width="100px;" alt="T.M Erlangga "/><br /><sub><b>T.M Erlangga</b></sub></a><br />
@@ -117,3 +117,9 @@ We are a dedicated group of innovators committed to solving real-world business 
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## 🚀 Ready to Transform Your Business?
+
+Embrace the future of workforce management with AJI – where technology meets simplicity!
+
+*Empowering SMEs, one payroll at a time.*
