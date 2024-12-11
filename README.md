@@ -97,17 +97,18 @@ We are a dedicated group of innovators committed to solving real-world business 
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/azki.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/bby.jpg" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/herlambangawan_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/ikiketua.jpg" width="100px;" alt="Herlambang Awan Irawan"/><br /><sub><b>Herlambang Awan Irawan</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/rafiimamd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/rafi.jpg" width="100px;" alt="Rafi Imam Dwiyanto"/><br /><sub><b>Rafi Imam Dwiyanto</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/maulidyasyh_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/lidya.jpg" width="100px;" alt="Maulidya Prastita Syah"/><br /><sub><b>Maulidya Prastita Syah</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/ajeng.png" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/herlambangawan_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/aden.png" width="100px;" alt="Larasati R.Y.P"/><br /><sub><b>Larasati R.Y.P</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/rafiimamd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/melin.png" width="100px;" alt="Wahyu Melinda"/><br /><sub><b>Wahyu Melinda</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/maulidyasyh_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/affa.png" width="100px;" alt="Affa Lelira"/><br /><sub><b>Affa Lelira</b></sub></a><br />
+      </td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/nauranrswr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/ayak.jpg" width="100px;" alt="Naura Ulayya Nariswari"/><br /><sub><b>Naura Ulayya Nariswari</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/cindyadm_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/cindy.jpg" width="100px;" alt="Cindi Adam"/><br /><sub><b>Cindi Adam</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ardiaevaa/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/eva.jpg" width="100px;" alt="Ardia Eva Ardiani"/><br /><sub><b>Ardia Eva Ardiani</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/farahyusnaida/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/fara.jpg" width="100px;" alt="Farah Yusnaida Arif"/><br /><sub><b>Farah Yusnaida Arif</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/serlindaapr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/serlin.jpg" width="100px;" alt="Serlinda Mareta Putri"/><br /><sub><b>Serlinda Mareta Putri</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/nauranrswr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/dyo.png" width="100px;" alt="Dyo Rizqal"/><br /><sub><b>Dyo Rizqal</b></sub></a><br />
+      </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/cindyadm_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/erlang.png" width="100px;" alt="T.M Erlangga "/><br /><sub><b>T.M Erlangga</b></sub></a><br />
+      </td>
     </tr>
   </tbody>
 </table>
