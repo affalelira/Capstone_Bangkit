@@ -94,7 +94,7 @@ We are a dedicated group of innovators committed to solving real-world business 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tbody align="center">
+  <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/azki.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/ajeng.png" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
@@ -104,7 +104,7 @@ We are a dedicated group of innovators committed to solving real-world business 
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/maulidyasyh_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/affa.png" width="100px;" alt="Affa Lelira"/><br /><sub><b>Affa Lelira</b></sub></a><br />
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/nauranrswr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/dyo.png" width="100px;" alt="Dyo Rizqal"/><br /><sub><b>Dyo Rizqal</b></sub></a><br />
       </td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/cindyadm_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/erlang.png" width="100px;" alt="T.M Erlangga "/><br /><sub><b>T.M Erlangga</b></sub></a><br />
