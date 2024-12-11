@@ -1,6 +1,10 @@
 # AJI: Revolutionizing Payroll Management for Small Businesses
 
-<img align='center' src="https://drive.google.com/uc?export=view&id=1RPy9S8b83amYqa4dZS_DGPxGECD_ZvYP" alt="Deskripsi Gambar" width="500" />
+<div align="center">
+
+<img src="https://drive.google.com/uc?export=view&id=1RPy9S8b83amYqa4dZS_DGPxGECD_ZvYP" alt="Logo" width="300" />
+
+</div>
 
 ## 💡 Transforming Business Operations with Smart Technology 
 
