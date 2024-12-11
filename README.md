@@ -1,76 +1,118 @@
-# Capstone_Bangkit
+# 🚀 AJI: Revolutionizing Payroll Management for Small Businesses
 
 <img src="https://drive.google.com/uc?export=view&id=1RPy9S8b83amYqa4dZS_DGPxGECD_ZvYP" alt="Deskripsi Gambar" width="500" />
 
-# AJI – Automate Attendance and Payroll for SMEs  
+## 💡 Transforming Business Operations with Smart Technology 
 
-Welcome to **AJI**, a smart solution designed to help **small and medium enterprises (SMEs)** streamline payroll calculations with ease and accuracy. AJI stands for **“Absen & Gaji”**, and it leverages cutting-edge technology to ensure seamless attendance tracking and salary automation.  
-
----
-
-## Why AJI?  
-
-Managing payroll can be time-consuming and prone to errors, especially for busy SME owners. AJI simplifies this process by integrating **attendance data** into an **automated payroll system**, making your operations more efficient and accurate.  
-
-### With AJI, you can:  
-
-- **Save Time**: Automate salary calculations based on employee attendance.  
-- **Increase Accuracy**: Utilize precise face recognition and geolocation for real-time attendance tracking.  
-- **Boost Productivity**: Focus on growing your business while AJI handles payroll management for you.  
+**AJI** (Absen & Gaji) is your ultimate solution for streamlining attendance tracking and payroll management. Designed specifically for small and medium enterprises, AJI leverages cutting-edge technology to simplify your most complex administrative challenges.
 
 ---
 
-## Key Features  
+## 🌟 Why Choose AJI?
 
-### 1. Face Recognition Attendance  
-Reliable and secure, ensuring employees' attendance is recorded accurately.  
+### Efficiency Meets Innovation
 
-### 2. Geolocation Integration  
-Verify attendance location for on-site and remote employees.  
-
-### 3. Automated Payroll Deductions  
-Automatically calculate salary reductions for tardiness or absenteeism.  
-
-### 4. User-Friendly Dashboard  
-Simple, intuitive interface tailored to SME needs.  
+- Time-Saving: Automate salary calculations with unprecedented ease
+- Precision Tracking: Utilize advanced face recognition and geolocation
+- Productivity Boost: Free your team to focus on growth, not paperwork
 
 ---
 
-## Who Is AJI For?  
+## 🔑 Breakthrough Features  
+
+### 1. 👥 Intelligent Face Recognition
+
+- Secure and reliable attendance tracking
+- Eliminates manual time-consuming processes
+- Ensures accurate employee identification
+
+### 2. 🌍 Advanced Geolocation Integration
+
+- Verify attendance for on-site and remote workers
+- Real-time location tracking
+- Comprehensive workforce management
+
+### 3. 💰 Smart Payroll Management
+
+- Automatic salary calculations
+- Precise deduction for tardiness
+- Transparent and error-free compensation
+
+### 4. 📊 Intuitive Dashboard
+
+- User-friendly interface
+- Designed for non-technical users
+- Comprehensive reporting at your fingertips  
+
+---
+
+## 🎯 Perfect for:  
 
 AJI is tailored for **SME owners aged 27 to 50 years**, including:  
 
-### Business Owners  
-Looking to modernize operations.  
+### Business Owners
 
-### Managers  
-Who want accurate attendance records.  
+- Modernize your operational workflow
+- Reduce administrative overhead
 
-### Entrepreneurs  
-Seeking cost-effective payroll solutions.  
+### Managers
 
----
+- Gain crystal-clear attendance insights
+- Eliminate manual record-keeping
 
-## How AJI Benefits Your Business  
+### Entrepreneurs
 
-### 1. Cost-Efficient  
-Avoid overpaying employees with accurate tracking.  
-
-### 2. Transparent Records  
-Generate clear attendance and payroll reports.  
-
-### 3. Employee Trust  
-Provide transparent and error-free salary calculations.  
+- Cost-effective solution
+- Scalable technology for growing businesses  
 
 ---
 
-## Get Started Today  
+## 💼 Business Benefits 
 
-Ready to take your SME operations to the next level?  
-Download AJI and experience:  
+### 1. 💸 Cost Optimization
 
-### - Accurate Attendance  
-### - Hassle-Free Payroll  
-### - Modern Management Tools  
+- Prevent overpayment
+- Accurate financial tracking
 
-AJI makes managing your team easier, so you can focus on what matters most—**growing your business**.
+### 2. 📝 Transparent Reporting
+
+- Generate detailed attendance logs
+- Clear, comprehensive payroll records
+
+### 3. 🤝 Building Trust
+
+- Error-free salary calculations
+- Increased employee satisfaction  
+
+---
+
+## 🏆 Our Passionate Team
+
+We are a dedicated group of innovators committed to solving real-world business challenges:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://drive.google.com/file/d/14aRD9l9kCuUm5wtvD6ZsqlxOwl80czXp/view?usp=drive_link" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/bby.jpg" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/herlambangawan_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/ikiketua.jpg" width="100px;" alt="Herlambang Awan Irawan"/><br /><sub><b>Herlambang Awan Irawan</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/rafiimamd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/rafi.jpg" width="100px;" alt="Rafi Imam Dwiyanto"/><br /><sub><b>Rafi Imam Dwiyanto</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/maulidyasyh_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/lidya.jpg" width="100px;" alt="Maulidya Prastita Syah"/><br /><sub><b>Maulidya Prastita Syah</b></sub></a><br /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/nauranrswr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/ayak.jpg" width="100px;" alt="Naura Ulayya Nariswari"/><br /><sub><b>Naura Ulayya Nariswari</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/cindyadm_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/cindy.jpg" width="100px;" alt="Cindi Adam"/><br /><sub><b>Cindi Adam</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ardiaevaa/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/eva.jpg" width="100px;" alt="Ardia Eva Ardiani"/><br /><sub><b>Ardia Eva Ardiani</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/farahyusnaida/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/fara.jpg" width="100px;" alt="Farah Yusnaida Arif"/><br /><sub><b>Farah Yusnaida Arif</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/serlindaapr/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/serlin.jpg" width="100px;" alt="Serlinda Mareta Putri"/><br /><sub><b>Serlinda Mareta Putri</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
