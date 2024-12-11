@@ -96,7 +96,7 @@ We are a dedicated group of innovators committed to solving real-world business 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://drive.google.com/file/d/14aRD9l9kCuUm5wtvD6ZsqlxOwl80czXp/view?usp=drive_link" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://drive.google.com/file/d/14aRD9l9kCuUm5wtvD6ZsqlxOwl80czXp/view?usp=sharing" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/bby.jpg" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/herlambangawan_/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/ikiketua.jpg" width="100px;" alt="Herlambang Awan Irawan"/><br /><sub><b>Herlambang Awan Irawan</b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/rafiimamd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/komwan/rafi.jpg" width="100px;" alt="Rafi Imam Dwiyanto"/><br /><sub><b>Rafi Imam Dwiyanto</b></sub></a><br /></td>
