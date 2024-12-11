@@ -94,7 +94,7 @@ We are a dedicated group of innovators committed to solving real-world business 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tbody>
+  <tbody align="center">
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/azki.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/ajenggwrd/"><img src="https://github.com/azzkik/azkiyaakmal/blob/main/images/capstoneBangkit/ajeng.png" width="100px;" alt="Ajeng Puspa Wardani"/><br /><sub><b>Ajeng Puspa Wardani</b></sub></a><br /></td>
