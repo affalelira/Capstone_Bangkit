@@ -17,14 +17,14 @@
 ### Efficiency Meets Innovation
 
 - Time-Saving: Automate salary calculations with unprecedented ease
-- Precision Tracking: Utilize advanced face recognition and geolocation
+- Precision Tracking: Utilize advanced face verification and geolocation
 - Productivity Boost: Free your team to focus on growth, not paperwork
 
 ---
 
 ## 🔑 Breakthrough Features  
 
-### 1. 👥 Intelligent Face Recognition
+### 1. 👥 Intelligent Face verification
 
 - Secure and reliable attendance tracking
 - Eliminates manual time-consuming processes
