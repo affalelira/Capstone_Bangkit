@@ -9,8 +9,8 @@
 
 ### 1. Clone Repository
 ```bash
-git clone [URL_REPOSITORY_ANDA]
-cd [NAMA_FOLDER_PROJEKT]
+git clone [URL_REPOSITORY]
+cd [FOLDER_NAME]
 ```
 
 ### 2. Buat Virtual Environment
